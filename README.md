@@ -26,16 +26,16 @@ bin
 
 6. Examples of execution:
 6.1
-# \Test1> java ee.jevgeniu.Main sanctions.txt noise.txt "vladimir is lenin"
+> \Test1> java ee.jevgeniu.Main sanctions.txt noise.txt "vladimir is lenin"
 Vladimir Lenin
 6.2
-# \Test1> java ee.jevgeniu.Main sanctions.txt noise.txt "stalin dsugashvili"
+> \Test1> java ee.jevgeniu.Main sanctions.txt noise.txt "stalin dsugashvili"
 Dzugashvilli Stalin
 6.3
-# \Test1\out\production\Test1> java ee.jevgeniu.Main sanctions.txt noise.txt "stalin bin dsugashvili"
+> \Test1\out\production\Test1> java ee.jevgeniu.Main sanctions.txt noise.txt "stalin bin dsugashvili"
 Dzugashvilli Stalin
 6.4
-# \Test1\out\production\Test1> java ee.jevgeniu.Main sanctions.txt noise.txt "lenin vladmir"
+> \Test1\out\production\Test1> java ee.jevgeniu.Main sanctions.txt noise.txt "lenin vladmir"
 Vladimir Lenin
 6.5
-# \Test1\out\production\Test1> java ee.jevgeniu.Main sanctions.txt noise.txt "lunoi volod"
+> \Test1\out\production\Test1> java ee.jevgeniu.Main sanctions.txt noise.txt "lunoi volod"
